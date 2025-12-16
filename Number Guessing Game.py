@@ -62,3 +62,4 @@ with open("game_scores.txt", "a") as file:
     file.write("=" * 40 + "\n")
 
 print("\nGame saved to game_scores.txt!")
+#aasas
