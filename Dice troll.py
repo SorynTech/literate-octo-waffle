@@ -94,3 +94,4 @@ else:
         d20()
         with open( "diceroll.txt",'a') as f:
             f.write(dicetype)
+#haiii
