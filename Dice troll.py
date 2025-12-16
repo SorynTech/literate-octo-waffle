@@ -31,8 +31,6 @@ if password:
     print("Password found!")
 else:
     print("Password not found")
-#test useage
-print(password)
 open ("diceroll.txt",'w').close()
 def d4():
     diceroll=random.randint(1,4)
